@@ -1,0 +1,35 @@
+1) Conversao ASCII -> bits -> ASCII
+    ok
+2) Canal ideal (sem ruido) e Eb/N0 = 40 dB: a mensagem deve voltar identica
+    Manchester           awgn     ideal  ok
+    Manchester           awgn     40 dB  ok
+    Manchester           rajadas  ideal  ok
+    Manchester           rajadas  40 dB  ok
+    AMI                  awgn     ideal  ok
+    AMI                  awgn     40 dB  ok
+    AMI                  rajadas  ideal  ok
+    AMI                  rajadas  40 dB  ok
+    BPSK                 awgn     ideal  ok
+    BPSK                 awgn     40 dB  ok
+    BPSK                 rajadas  ideal  ok
+    BPSK                 rajadas  40 dB  ok
+    QPSK                 awgn     ideal  ok
+    QPSK                 awgn     40 dB  ok
+    QPSK                 rajadas  ideal  ok
+    QPSK                 rajadas  40 dB  ok
+    16-QAM               awgn     ideal  ok
+    16-QAM               awgn     40 dB  ok
+    16-QAM               rajadas  ideal  ok
+    16-QAM               rajadas  40 dB  ok
+    BPSK + Hamming(7,4)  awgn     ideal  ok
+    BPSK + Hamming(7,4)  awgn     40 dB  ok
+    BPSK + Hamming(7,4)  rajadas  ideal  ok
+    BPSK + Hamming(7,4)  rajadas  40 dB  ok
+3) BER simulada x teorica em AWGN (200.000 bits, Eb/N0 = 6 dB)
+    BPSK         simulada = 0.00250  teorica = 0.00239  ok
+    QPSK         simulada = 0.00231  teorica = 0.00239  ok
+    16-QAM       simulada = 0.02768  teorica = 0.02787  ok
+    Manchester   simulada = 0.00236  teorica = 0.00239  ok
+    AMI          simulada = 0.03479  teorica = 0.03451  ok
+
+Todos os testes passaram.

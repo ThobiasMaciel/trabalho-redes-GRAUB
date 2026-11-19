@@ -1,0 +1,122 @@
+Mensagem enviada (584 bits):
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+
+=== canal awgn, Eb/N0 = 3 dB ===
+BPSK                  19 bits errados (BER = 0.0325)
+  Rd$es(de ComputAdoras$- UNASINO[(2026/22"si?ulador de vr!ns}i?sCo digi|al
+   ^^  ^         ^   ^ ^    ^    ^^      ^^  ^          ^ ^  ^ ^ ^      ^  
+QPSK                  12 bits errados (BER = 0.0205)
+  Retes de Coepeqadores = UNISINOS 2026/2:({imuladOv de tran{mirsao digital
+    ^        ^ ^^       ^                 ^^      ^^        ^  ^           
+16-QAM                36 bits errados (BER = 0.0616)
+  Red5s!de Co}puta$?ru? / U^I?INOS1"0"&/2:0smmutadkb`?e ??q~?missao0 igital
+     ^ ^     ^    ^^ ^^ ^  ^ ^    ^^ ^^   ^ ^  ^  ^^^^  ^^^^^      ^^      
+Manchester            17 bits errados (BER = 0.0291)
+  Redes `e$CoM`qtadozes -?UNISINOS 2026/2:"siMu\ados de t2ansmiWsao digitad
+        ^ ^  ^^^    ^    ^                ^  ^ ^   ^     ^     ^          ^
+AMI                   63 bits errados (BER = 0.1079)
+  Rddes de`Aom wtcdn2u{?-?]nIS??MS!2?6??2:"wkeul!\or$?p?tran?mc?S?/$l{~it?)
+   ^      ^^  ^^ ^ ^^^^^ ^^^  ^^^ ^ ^^^^  ^^^^  ^^  ^^^^    ^ ^^^^^^^^^  ^^
+BPSK + Hamming(7,4)   19 bits errados (BER = 0.0325)
+  Rfdes je Computadgrms?- UNISINJS 2026/2? si?ulador de tpansmissao digital
+   ^    ^          ^ ^ ^        ^        ^   ^           ^                 
+
+=== canal awgn, Eb/N0 = 9 dB ===
+BPSK                   0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+QPSK                   0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+16-QAM                 1 bits errados (BER = 0.0017)
+  Redes de Computadores - UNISINOS 2026/2: sioulador de transmissao digital
+                                             ^                             
+Manchester             0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+AMI                    3 bits errados (BER = 0.0051)
+  Redes de Computadores - UNISINOS 200v/2: simulador de transmissao dkgital
+                                     ^^                              ^     
+BPSK + Hamming(7,4)    0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+
+=== canal awgn, Eb/N0 = 15 dB ===
+BPSK                   0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+QPSK                   0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+16-QAM                 0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+Manchester             0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+AMI                    0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+BPSK + Hamming(7,4)    0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+
+=== canal rajadas, Eb/N0 = 3 dB ===
+BPSK                  45 bits errados (BER = 0.0771)
+  Re?us de Coia?tad?rms / ENISY^s? "026/6 ?SimuH?tor dd transmi7sao liwiu?l
+    ^^       ^^^   ^ ^  ^ ^   ^^^^ ^    ^^^^   ^^^    ^        ^    ^ ^ ^^ 
+QPSK                  11 bits errados (BER = 0.0188)
+  Re`es `e CoMp5?aDores m UNISINOS 2026/2: simumAdor de transmissao?digital
+    ^   ^    ^ ^^ ^     ^                      ^^                  ^       
+16-QAM                39 bits errados (BER = 0.0668)
+  Re`es da Cmmpuu!dosos %0WOLQINOQ!2126/2; s)mt-ad?f$de |S`jso?sscm $igiual
+    ^    ^  ^   ^^  ^^  ^^^^^^   ^^ ^    ^  ^ ^^  ^^^   ^^^^ ^^  ^^ ^   ^  
+Manchester            16 bits errados (BER = 0.0274)
+  Pudes de Cgmputaeores -?UNISINOS 2026/22 pimula$mr ee tra&smissao!dygital
+  ^^        ^     ^      ^               ^ ^     ^^  ^     ^       ^ ^     
+AMI                   78 bits errados (BER = 0.1336)
+  Po?es d?$Co?tut?b?Rts`?0UNIS??oQ!2?O?/2>,w?ou??do{ n% tr`ns}i2s?g<?{g(t?l
+  ^^^    ^^  ^^  ^^^^^ ^^^    ^^^^^ ^^^  ^^^^^ ^^  ^ ^^   ^  ^ ^ ^^^^^ ^ ^ 
+BPSK + Hamming(7,4)   40 bits errados (BER = 0.0685)
+  Redespde CoM?utadorns%- UN?cI^OS 2026/24 vi?ulador"d??tr?n3?issao ?iWi4al
+       ^     ^^      ^ ^    ^^ ^         ^ ^ ^      ^ ^^  ^ ^^      ^ ^ ^  
+
+=== canal rajadas, Eb/N0 = 9 dB ===
+BPSK                   4 bits errados (BER = 0.0068)
+  Redes de Computador?{ - UNISINOS 2026/2: simulador de transmissao digital
+                     ^^                                                    
+QPSK                  12 bits errados (BER = 0.0205)
+  Redes de Computadores - UMQ_?LMS 2026/2:"si}?lador de transmissao digital
+                           ^^^^^^         ^  ^^                            
+16-QAM                32 bits errados (BER = 0.0548)
+  Redes de Computadores - UNISINOS 2072)2z '?718alk?$aa transmissao$e)gital
+                                     ^^^ ^ ^^^^^ ^^^^^^            ^^^     
+Manchester            11 bits errados (BER = 0.0188)
+  Re@es deaComputadores - UNISINOS 2026/2: simulador de ?ransmissao dYGital
+    ^     ^                                             ^            ^^    
+AMI                   17 bits errados (BER = 0.0291)
+  Redn?4de Computadores - UNISINOS 2226/2:?simulador de transmissam?tigital
+     ^^^                            ^     ^                       ^^^      
+BPSK + Hamming(7,4)   11 bits errados (BER = 0.0188)
+  Reges de#Computador?s - UNISINOS 2026/2: si?ulado2 de transmissao digital
+    ^     ^          ^                       ^     ^                       
+
+=== canal rajadas, Eb/N0 = 15 dB ===
+BPSK                   0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+QPSK                   1 bits errados (BER = 0.0017)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transoissao digital
+                                                             ^             
+16-QAM                 5 bits errados (BER = 0.0086)
+  Redes de Computadores - UNISIJOS!3026/2*`simulador de transmissao digital
+                               ^  ^^     ^^                                
+Manchester             0 bits errados (BER = 0.0000)
+  Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital
+                                                                           
+AMI                    6 bits errados (BER = 0.0103)
+  Redes de Computad?res m UNISIN_S >026/2: simula?or de transmissao digital
+                   ^    ^       ^  ^             ^                         
+BPSK + Hamming(7,4)    2 bits errados (BER = 0.0034)
+  Redes de Computadores - UNISINOS 2026/2: Cimulador de transmissao digital
+                                           ^                               

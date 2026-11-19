@@ -1,0 +1,12 @@
+{
+  "mensagem": "Redes de Computadores - UNISINOS 2026/2: simulador de transmissao digital",
+  "ebn0_db": [0, 3, 6, 9, 12, 15, 18, 21],
+  "bits_por_ponto": 1000000,
+  "repeticoes": 5,
+  "semente_base": 2026,
+  "esquemas": ["bpsk", "qpsk", "16qam", "manchester", "ami", "bpsk+hamming"],
+  "canais": ["awgn", "rajadas"],
+  "rajadas": {"p_bom_ruim": 0.01, "p_ruim_bom": 0.1, "extra_db": 10},
+  "ebn0_mensagem_db": [3, 9, 15],
+  "ebn0_constelacao_db": 12
+}
